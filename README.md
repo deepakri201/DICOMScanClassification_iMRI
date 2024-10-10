@@ -8,7 +8,7 @@ With the wealth of medical image data, efficient curation is essential. Assignin
 
 ## Code
 
-[DICOMScanClassification_setup_exp6C.ipynb](DICOMScanClassification_setup_exp6C.ipynb)
+[DICOMScanClassification_setup_data_exp6C.ipynb](DICOMScanClassification_setup_data_exp6C.ipynb)
 This notebook is for querying Imaging Data Commons data, and obtaining the appropriate metadata from the DICOM files. 
 
 [DICOMScanClassification_train_and_test_exp6C.ipynb](DICOMScanClassification_train_and_test_exp6C.ipynb) This notebook is for the training and test data setup, running training/validation for the three models, and for running inference. Figures and tables are also produced in this notebook. 
