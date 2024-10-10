@@ -2,6 +2,8 @@
 
 This repository holds the code for the iMRI Symposium poster "Image and Metadata Fusion for Automatic Classification of Prostate MR Series". See the symposium information [here](https://imri2024.org/). 
 
+See the poster [here](https://docs.google.com/presentation/d/1GYqPM9fFlkspAE_a1jsh04lD9SAIr3R7J0b0jrWFsKI/edit?usp=sharing) to be presented at the symposium. 
+
 ## Abstract
 
 With the wealth of medical image data, efficient curation is essential. Assigning the sequence type to magnetic resonance images is necessary for scientific studies and artificial intelligence-based tasks. Incomplete or missing metadata prevents effective automation, leading to time-consuming and error-prone processes by clinicians. We propose a deep-learning method for classification of prostate cancer scanning sequences based on a combination of image data and DICOM metadata. We demonstrate superior results compared to metadata or image data alone, and make our code publicly available at https://github.com/deepakri201/DICOMScanClassification_iMRI.
